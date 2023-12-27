@@ -94,20 +94,5 @@ public class HashTable<K, V> {
         System.out.println(table.get("a"));
         System.out.println(table.size());
         System.out.println(table.isEmpty());
-//        System.out.println(table.get("a"));
-//        System.out.println(table.size());
-//        System.out.println(table.isEmpty());
-//        System.out.println("------------------");
-//        table.remove("b");
-//        System.out.println(table.get("b"));
-//        System.out.println(table.size());
-//        System.out.println(table.isEmpty());
-//        System.out.println("------------------");
-//        table.remove("c");
-//        table.remove("a");
-//        System.out.println(table.get("c"));
-//        System.out.println(table.get("a"));
-//        System.out.println(table.size());
-//        System.out.println(table.isEmpty());
     }
 }
