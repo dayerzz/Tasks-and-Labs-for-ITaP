@@ -1,0 +1,2 @@
+Результат: Hello Java!
+Результат: One of the popular programming languages - Java!

@@ -1,0 +1,20 @@
+Exception occurred: Стек пуст
+CustomEmptyStackException: Стек пуст
+	at CustomStack.pop(Main.java:34)
+	at Main.main(Main.java:52)
+-------------------------------------------
+Exception occurred: Стек пуст
+CustomEmptyStackException: Стек пуст
+	at CustomStack.pop(Main.java:41)
+	at Main.main(Main.java:62)
+-------------------------------------------
+Exception occurred: Стек пуст
+CustomEmptyStackException: Стек пуст
+	at CustomStack.pop(Main.java:41)
+	at Main.main(Main.java:62)
+-------------------------------------------
+Exception occurred: Стек пуст
+CustomEmptyStackException: Стек пуст
+	at CustomStack.pop(Main.java:41)
+	at Main.main(Main.java:62)
+-------------------------------------------
